@@ -1,0 +1,23 @@
+Reliable Data Transfer over UDP - Test File
+This is line 2 of the text file.
+This is line 3 of the text file.
+Stop-and-Wait ARQ protocol operates by transmitting a single packet
+and waiting for its acknowledgement before sending the next one.
+UDP is an unreliable transport protocol.
+We must simulate packet drops and network delays.
+This multiline file will be divided into chunks and transmitted.
+Line 9: Ensuring reliable transport.
+Line 10: Handling duplicates gracefully.
+Line 11: Computing SHA-256 for integrity verification.
+Line 12: Network layers in action!
+Line 13: This lab simulates what TCP does under the hood.
+Line 14: Timeouts are crucial for recovery.
+Line 15: Checksums guarantee data integrity.
+Line 16: Sequences ensure ordered delivery.
+Line 17: We are approaching 20 lines.
+Line 18: Testing with 512 byte chunks.
+Line 19: The quick brown fox jumps over the lazy dog.
+Line 20: Almost there.
+Line 21: Another sentence to ensure we have enough data.
+Line 22: End of file is marked with an is_eof flag.
+Line 23: Goodbye!
